@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="65" viewBox="0 0 52 65">
+  <g id="Shape_3_copy" data-name="Shape 3 copy" transform="translate(-934 -3025)">
+    <g id="Shape_3_copy-2" data-name="Shape 3 copy" transform="translate(934 3025)">
+      <path id="Shape_1" data-name="Shape 1" d="M52,0H0V44.339Z" fill="#4e4d4b"/>
+      <path id="Shape_2" data-name="Shape 2" d="M17.8,33.48,51.973,63.04V3.921Z" fill="#4e4d4b"/>
+      <path id="Shape_3" data-name="Shape 3" d="M0,65V48.742l14.857-13.3L49.114,65Z" fill="#4e4d4b"/>
+    </g>
+    <path id="Color_Overlay" data-name="Color Overlay" d="M934,3090v-16.258l14.857-13.3L983.114,3090Zm17.8-31.52,34.171-29.56v59.119ZM934,3025h52l-52,44.339Z" fill="#e74f3f"/>
+  </g>
+</svg>
